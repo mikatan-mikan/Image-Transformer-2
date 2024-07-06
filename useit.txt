@@ -1,0 +1,25 @@
+・準備
+
+windows
+https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
+にアクセスし、ダウンロードされたexeを実行、add to pathにチェックを入れてインストール
+
+mac
+https://www.python.org/
+にアクセスし、downloads -> download for macの下のボタンをクリック
+あとは、ダウンロードされたものを実行、add to pathにチェックを入れてインストール
+
+
+・Use It
+
+main.pyを実行(初回起動時はpillow libを自動でインストール)
+変形したい画像(邪魔な部分が入っているノートの画像等)を参照
+画像上のオレンジの丸を動かすことで角の4点を決める
+保存で名前を付けて保存
+
+・追加機能
+
+カメラでの撮影(カラー・グレースケール)・切り取り座標の直接指定
+
+・対応拡張子等
+README.md参照
